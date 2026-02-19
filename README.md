@@ -1,6 +1,6 @@
 ---
 
-# 🚦 SmartRaahi
+## 🚦 SmartRaahi
 
 **AI-Based Helmet Detection and Traffic Risk Prediction System**
 
