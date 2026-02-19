@@ -1,0 +1,2 @@
+# SmartRaahi_Smart-Road-Traffic-Management-System
+AI-Based Helmet Detection and Traffic Risk Prediction System  SmartRaahi is an intelligent transportation platform combining computer vision and machine learning for real-time traffic monitoring, violation detection, accident-risk prediction, traffic forecasting &amp; vehicle maintenance insights, supporting smart-city enforcement and safety decisions.
